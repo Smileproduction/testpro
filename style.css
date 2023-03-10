@@ -73,11 +73,13 @@ nav ul li a {
 .content p {
     margin: 10px 0 30px;
     color: #333;
+    animation-delay: 0.5s;
 }
 
 .content .btn {
     padding: 15px 80px;
     font-size: 15px;
+    animation-delay: 1s;
 
 }
 
@@ -90,6 +92,10 @@ nav ul li a {
     position: absolute;
     bottom: 0;
     right: 10%;
+}
+
+.feature-img.anim {
+    animation-delay: 1.5s;
 }
 
 .anim {
